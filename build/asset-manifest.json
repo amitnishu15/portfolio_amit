@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio_amit/static/css/main.04273b38.chunk.css",
+    "main.js": "/portfolio_amit/static/js/main.885f3c22.chunk.js",
+    "main.js.map": "/portfolio_amit/static/js/main.885f3c22.chunk.js.map",
+    "runtime-main.js": "/portfolio_amit/static/js/runtime-main.46b222be.js",
+    "runtime-main.js.map": "/portfolio_amit/static/js/runtime-main.46b222be.js.map",
+    "static/css/2.63147665.chunk.css": "/portfolio_amit/static/css/2.63147665.chunk.css",
+    "static/js/2.a2b0d58a.chunk.js": "/portfolio_amit/static/js/2.a2b0d58a.chunk.js",
+    "static/js/2.a2b0d58a.chunk.js.map": "/portfolio_amit/static/js/2.a2b0d58a.chunk.js.map",
+    "index.html": "/portfolio_amit/index.html",
+    "precache-manifest.070142e6ece1bf97c71fda453b367b0f.js": "/portfolio_amit/precache-manifest.070142e6ece1bf97c71fda453b367b0f.js",
+    "service-worker.js": "/portfolio_amit/service-worker.js",
+    "static/css/2.63147665.chunk.css.map": "/portfolio_amit/static/css/2.63147665.chunk.css.map",
+    "static/css/main.04273b38.chunk.css.map": "/portfolio_amit/static/css/main.04273b38.chunk.css.map",
+    "static/js/2.a2b0d58a.chunk.js.LICENSE.txt": "/portfolio_amit/static/js/2.a2b0d58a.chunk.js.LICENSE.txt",
+    "static/media/earth.jpg": "/portfolio_amit/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/portfolio_amit/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/portfolio_amit/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/portfolio_amit/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/portfolio_amit/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/portfolio_amit/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/portfolio_amit/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/portfolio_amit/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/portfolio_amit/static/media/ionicons.621bd386.svg",
+    "static/media/myImage.png": "/portfolio_amit/static/media/myImage.bd80794f.png",
+    "static/media/profile_pic-removebg-preview.png": "/portfolio_amit/static/media/profile_pic-removebg-preview.dffb136b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b222be.js",
+    "static/css/2.63147665.chunk.css",
+    "static/js/2.a2b0d58a.chunk.js",
+    "static/css/main.04273b38.chunk.css",
+    "static/js/main.885f3c22.chunk.js"
+  ]
+}
