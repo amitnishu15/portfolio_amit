@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio_amit/static/css/main.04273b38.chunk.css",
-    "main.js": "/portfolio_amit/static/js/main.2192dd0e.chunk.js",
-    "main.js.map": "/portfolio_amit/static/js/main.2192dd0e.chunk.js.map",
+    "main.js": "/portfolio_amit/static/js/main.dad27cea.chunk.js",
+    "main.js.map": "/portfolio_amit/static/js/main.dad27cea.chunk.js.map",
     "runtime-main.js": "/portfolio_amit/static/js/runtime-main.46b222be.js",
     "runtime-main.js.map": "/portfolio_amit/static/js/runtime-main.46b222be.js.map",
     "static/css/2.63147665.chunk.css": "/portfolio_amit/static/css/2.63147665.chunk.css",
-    "static/js/2.a2b0d58a.chunk.js": "/portfolio_amit/static/js/2.a2b0d58a.chunk.js",
-    "static/js/2.a2b0d58a.chunk.js.map": "/portfolio_amit/static/js/2.a2b0d58a.chunk.js.map",
+    "static/js/2.602c7eba.chunk.js": "/portfolio_amit/static/js/2.602c7eba.chunk.js",
+    "static/js/2.602c7eba.chunk.js.map": "/portfolio_amit/static/js/2.602c7eba.chunk.js.map",
     "index.html": "/portfolio_amit/index.html",
-    "precache-manifest.baf0ac5af365ac4b88e6eca56595fde3.js": "/portfolio_amit/precache-manifest.baf0ac5af365ac4b88e6eca56595fde3.js",
+    "precache-manifest.7d6277fe29e6aff56a155e4f1804d773.js": "/portfolio_amit/precache-manifest.7d6277fe29e6aff56a155e4f1804d773.js",
     "service-worker.js": "/portfolio_amit/service-worker.js",
     "static/css/2.63147665.chunk.css.map": "/portfolio_amit/static/css/2.63147665.chunk.css.map",
     "static/css/main.04273b38.chunk.css.map": "/portfolio_amit/static/css/main.04273b38.chunk.css.map",
-    "static/js/2.a2b0d58a.chunk.js.LICENSE.txt": "/portfolio_amit/static/js/2.a2b0d58a.chunk.js.LICENSE.txt",
+    "static/js/2.602c7eba.chunk.js.LICENSE.txt": "/portfolio_amit/static/js/2.602c7eba.chunk.js.LICENSE.txt",
     "static/media/earth.jpg": "/portfolio_amit/static/media/earth.67af05e1.jpg",
     "static/media/font-awesome.css": "/portfolio_amit/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/image1.jpg": "/portfolio_amit/static/media/image1.768998c6.jpg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.46b222be.js",
     "static/css/2.63147665.chunk.css",
-    "static/js/2.a2b0d58a.chunk.js",
+    "static/js/2.602c7eba.chunk.js",
     "static/css/main.04273b38.chunk.css",
-    "static/js/main.2192dd0e.chunk.js"
+    "static/js/main.dad27cea.chunk.js"
   ]
 }
