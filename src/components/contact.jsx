@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="https://wa.me/918982523248"  //mailto:amitnishu15@gmail.com  //https://formspree.io/xdoeonlo
+                          action="mailto:amitnishu15@gmail.com"   //mailto:amitnishu15@gmail.com  //https://formspree.io/xdoeonlo  //https://wa.me/918982523248?text=sale 
                           method="POST"
                           className="contactForm"
                           encType="text/plain"
