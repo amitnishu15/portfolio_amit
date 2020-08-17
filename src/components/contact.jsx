@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="mailto:amitnishu15@gmail.com"   //mailto:amitnishu15@gmail.com  //https://formspree.io/xdoeonlo  //https://wa.me/918982523248?text=sale 
+                          action="mailto:amitnishu15@gmail.com" //mailto:amitnishu15@gmail.com  //https://formspree.io/xdoeonlo  //https://wa.me/918982523248?text=sale
                           method="POST"
                           className="contactForm"
                           encType="text/plain"
@@ -120,6 +120,28 @@ class Contact extends React.Component {
                         <ul>
                           <li>
                             <a
+                              href="https://wa.me/918982523248"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="fa fa-whatsapp"></i>
+                              </span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.facebook.com/profile.php?id=100002604443663"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="fa fa-facebook"></i>
+                              </span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
                               href=""
                               target="_blank"
                               rel="noopener noreferrer"
@@ -164,8 +186,7 @@ class Contact extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-sm-12">
-                <div className="copyright-box">
-                </div>
+                <div className="copyright-box"></div>
               </div>
             </div>
           </div>
