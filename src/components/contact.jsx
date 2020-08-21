@@ -118,6 +118,17 @@ class Contact extends React.Component {
                       </div>
                       <div className="socials">
                         <ul>
+                        <li>
+                            <a
+                              href="https://www.linkedin.com/in/amit-jain-8396bb157/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-linkedin"></i>
+                              </span>
+                            </a>
+                          </li>
                           <li>
                             <a
                               href="https://wa.me/918982523248"
@@ -140,7 +151,7 @@ class Contact extends React.Component {
                               </span>
                             </a>
                           </li>
-                          <li>
+                          {/* <li>
                             <a
                               href=""
                               target="_blank"
@@ -161,18 +172,7 @@ class Contact extends React.Component {
                                 <i className="ion-social-github"></i>
                               </span>
                             </a>
-                          </li>
-                          <li>
-                            <a
-                              href=""
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              <span className="ico-circle">
-                                <i className="ion-social-linkedin"></i>
-                              </span>
-                            </a>
-                          </li>
+                          </li> */}
                         </ul>
                       </div>
                     </div>
